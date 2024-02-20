@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A entrega deste exercício consiste em:
 
--Crie um formulário de cadastro, este formulário deverá conter os campos: nome completo, e-mail, telefone, CPF, endereço completo e CEP;
--Utilize o plugin jQuery Mask Plugin para aplicar máscara aos campos CPF, telefone e CEP;
--Crie uma branch chamada exercicio_plugins_jquery no repositório do curso;
--Envie o link através da plataforma.
+<p>-Crie um formulário de cadastro, este formulário deverá conter os campos: nome completo, e-mail, telefone, CPF, endereço completo e CEP;</p>
+<p>-Utilize o plugin jQuery Mask Plugin para aplicar máscara aos campos CPF, telefone e CEP;</p>
+<p>-Crie uma branch chamada exercicio_plugins_jquery no repositório do curso;</p>
+<p>-Envie o link através da plataforma.</p>
