@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.container{
+    max-width: 512px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+section{
+    padding: 50px 0;
+}
+
+section h2{
+    margin-bottom: 20px;
+    
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: #037741;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+    border-radius: 6px;
+    
+}
+
+button:hover{
+    background-color: #7ff0bb;
+}
+
+.form-campo{
+    margin-bottom: 20px;
+}
+
+.form-campo label{
+    font-weight: bold;
+}
+
+.form-campo input{
+    width: 100%;
+    padding: 10px;
+}
+
+form {
+    max-width: 360px;
+}
+
+form button{
+    max-width: 140px;
+}
+
+
+
+
